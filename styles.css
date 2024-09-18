@@ -1,1 +1,22 @@
 /*  your css code here. If applicable */
+*{
+	width:1500pxpx;
+	background-color:lightblue;
+}
+table,td{
+	border:1px solid black;
+	
+}
+.first,.last{
+	width:200px;
+}
+.middle{
+	width:600px;
+	text-align:center;
+}
+.img1{
+	width:500px;
+}
+.img{
+	width:200px;
+}
